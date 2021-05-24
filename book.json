@@ -34,7 +34,11 @@
               "tbfed-pagefooter", 
               "cnzz", 
               "hints",
-              "sitemap-general"],
+              "sitemap-general",
+              "edit-link",
+              "back-to-top-button",
+              "github-buttons@2.1.0",
+              "github"],
   "pluginsConfig": {
       "theme-default": {
         "showLevel": false
@@ -62,6 +66,18 @@
     },
     "sitemap-general": {
       "prefix": "https://wangwei1237.gitee.io/idioms/"
+    },
+    "github": {
+      "url": "https://github.com/wangwei1237/temperature-of-the-idioms"
+    },
+    "edit-link": {
+      "base": "https://github.com/wangwei1237/temperature-of-the-idioms/edit/master",
+      "label": "在线编辑"
+    },
+    "github-buttons": {
+      "repo": "wangwei1237/temperature-of-the-idioms",
+      "types": ["star"],
+      "size": "small"
     }
   },
   "title": "成语的温度",

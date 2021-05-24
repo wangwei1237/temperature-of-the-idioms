@@ -6,7 +6,7 @@ then
     exit 1
 fi
 
-URL_PREFIX="https://api.github.com/repos/wangwei1237/monolith-to-microservices/releases"
+URL_PREFIX="https://api.github.com/repos/wangwei1237/temperature-of-the-idioms/releases"
 
 version=$1
 token=$2
